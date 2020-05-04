@@ -13,6 +13,7 @@
     background:#fff;
     border: black thin 1px;
     margin-bottom:10px;     
+    white-space: pre-wrap;
 }
 .chat-header {
     display: flex;
